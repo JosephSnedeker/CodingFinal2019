@@ -3,6 +3,6 @@ Saving	config file	C:\Users\joesn\Documents\CodingFinal2019\lm303\snes9x-1.58-wi
 Sound buffer size: 8200 (2050 samples)
 Found ROM file header (and ignored it).
 Map_LoROMMap
-"SUPER MARIOWORLD" [checksum ok] LoROM, 16Mbits, ROM+RAM+BAT, NTSC, SRAM:16Kbits, ID:____, CRC32:EC9ED1D1
+"SUPER MARIOWORLD" [checksum ok] LoROM, 16Mbits, ROM+RAM+BAT, NTSC, SRAM:16Kbits, ID:____, CRC32:13DC9D04
 Sound buffer size: 8200 (2050 samples)
 Saving	config file	C:\Users\joesn\Documents\CodingFinal2019\lm303\snes9x-1.58-win32-x64\snes9x.conf
