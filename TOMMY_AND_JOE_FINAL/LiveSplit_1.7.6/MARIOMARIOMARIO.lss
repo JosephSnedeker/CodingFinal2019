@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario World</GameName>
+  <CategoryName>All Castles</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>-00:00:02.2000000</Offset>
+  <AttemptCount>6</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="04/16/2019 17:08:46" isStartedSynced="True" ended="04/16/2019 17:20:52" isEndedSynced="True">
+      <RealTime>00:12:04.3120000</RealTime>
+    </Attempt>
+    <Attempt id="2" started="04/16/2019 17:41:30" isStartedSynced="True" ended="04/16/2019 17:43:14" isEndedSynced="True" />
+    <Attempt id="3" started="04/16/2019 17:43:27" isStartedSynced="True" ended="04/16/2019 17:45:09" isEndedSynced="True" />
+    <Attempt id="4" started="04/16/2019 17:45:25" isStartedSynced="True" ended="04/16/2019 17:47:05" isEndedSynced="True" />
+    <Attempt id="5" started="04/16/2019 17:47:13" isStartedSynced="True" ended="04/16/2019 17:48:52" isEndedSynced="True" />
+    <Attempt id="6" started="04/16/2019 17:49:05" isStartedSynced="True" ended="04/16/2019 17:54:21" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>The CML</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>A-Maze-Ment</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>First Flight</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Tight Squeeze</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Tropical Vacay</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Deep Sea Blues</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Gettin' Toasty</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Plunge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Slow Roast</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Gauntlet</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\135777\Documents\CodingFinal2019\LiveSplit_1.7.6\Components\LiveSplit.SMW.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="levels" type="bool">True</Setting>
+      <Setting id="bosses" type="bool">True</Setting>
+      <Setting id="switchPalaces" type="bool">False</Setting>
+      <Setting id="levelDoorPipe" type="bool">False</Setting>
+      <Setting id="castleDoorPipe" type="bool">False</Setting>
+      <Setting id="bowserPhase" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>
